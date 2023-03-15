@@ -1,9 +1,9 @@
 <div align="center">
   
   ### ✨ Oiie eu sou a Geovanna! ✨
-  🎨 Eu trabalho como Designer Gráfico freelancer, mas pretendo me tornar uma DEV 🙌
+  🎨 Atualmente sou estagiária de programação WEB 🙌
   <br>
- 🌱 Estou estudando HTML, CSS e JavaScript ❤
+ 🌱 Estou estudando PHP, SQL e Composer ❤
 
 </div>
 
